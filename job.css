@@ -1,0 +1,46 @@
+body {
+    background-color:rgb(194, 229, 211);
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid; 
+    color: black;
+}
+
+legend {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: black;
+    margin: auto;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+#field {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+tr {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif;
+}
